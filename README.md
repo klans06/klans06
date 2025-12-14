@@ -14,11 +14,6 @@
 - ⚙️ Currently learning Rust
 - 📽️ Star Wars and Game of Thrones
 
-## 📊 Github Stats
-<p align="center">
-  <a href="https://git.io/streak-stats"> <img height=170 src="https://streak-stats.demolab.com?user=BreathXV&theme=blue-green&hide_border=true" alt="GitHub Streak" /></a>
-</p>
-
 ## ⚙️ Languages and Tools
 <img align="left" alt="Golang" width="26px" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" />
 <img align="left" alt="" width="26px" src="" />
