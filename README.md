@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Hello! My name's Kieran. Here you can find the projects I am working on and the skills I am trying to learn. I am highly interested in server-side applications, back-end development and DevOps. I always try to make my projects unique; ensuring that I can show my abilities without overcomplicating or, making it difficult for others to contribute. I am currently working as a Sales Manager at a web development company.
+  Hello! My name's Kieran. Here you can find the projects I am working on and the skills I am trying to learn. I am highly interested in server-side applications, back-end development and DevOps. I always try to make my projects unique; ensuring that I can show my abilities without overcomplicating or, making it difficult for others to contribute.
 </p>
 
 ## :sassy_man:  About me
