@@ -15,6 +15,7 @@
 - 📽️ Star Wars and Game of Thrones
 
 ## ⚙️ Languages and Tools
+<img align="left" alt="Lua" width="26px" src="https://camo.githubusercontent.com/5ab7705e2d0aa12142c3d3fade168cc4789c5125de5624069bcf45dae2dbec50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f6c756140302e302e302f6c75615f323536783235362e706e67" />
 <img align="left" alt="Golang" width="26px" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" />
 <img align="left" alt="" width="26px" src="" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
