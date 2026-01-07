@@ -9,10 +9,10 @@
 ## :sassy_man:  About me
 - 🌍 Born and based in the UK
 - 🎹 I play piano and listen to lots of music
-- 📚 Reads a lot.
 - 🧑‍💻 Interested in Cyber Security, SaaS and software development!
-- ⚙️ Currently learning Rust
-- 📽️ Star Wars and Game of Thrones
+- ⚙️ Currently navigating the world of Lua and CitizenFX
+- 📽️ Star Wars, Game of Thrones, Fallout and Stranger Things
+- 🎮 GTAV, Crusader Kings 3, Fallout 76 and Slay the Spire
 
 ## ⚙️ Languages and Tools
 <img align="left" alt="Lua" width="26px" src="https://camo.githubusercontent.com/5ab7705e2d0aa12142c3d3fade168cc4789c5125de5624069bcf45dae2dbec50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f6c756140302e302e302f6c75615f323536783235362e706e67" />
